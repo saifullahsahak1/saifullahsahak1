@@ -84,9 +84,9 @@ def clear():
 def back():
 	login()
 
-ahsan="ALE-"
+sahak="ALE-"
 imt="-M4786=="
-ak="AHSAN-"
+ak="sahak-"
 myid=uuid.uuid4().hex[:10].upper()
 try:
 	key1 = open('/data/data/com.termux/files/usr/bin/.mrahsan-cov', 'r').read()
@@ -437,10 +437,10 @@ class Main:
 			time.sleep(1.0)
 			print("\033[1;37m  Thank you ")
 			print("")
-			input("  OOK  \033[1;37m")
-			time.sleep(3.1)
+			input("  OOK  \ 033[1.1")
+			time.sleep(1.1)
 			print("")
-			print("\033[1;32m  TOO •• SAHAK ••  TOO")
+			print("\033[1.1s  TOO •• SAHAK ••  TOO")
 			time.sleep(3.0)
 			os.system("clear")
 		print(logo)
@@ -450,7 +450,7 @@ class Main:
 		print(" [4] 2009-10 Cloning")
 		print(" [5] 2011-2022 Cloning")
 		print(" [E] SAIFULLAH ??SAHAK new tool\n")
-		SAHAK =input(" Choose : ")
+		SAHAK =input(" Choose Option: ")
 		if SAHAK in ["1", "01"]:
 			File()
 		if SAHAK in ["2", "02"]:
@@ -493,7 +493,7 @@ class Main:
 				print("%s [!] IF NO RESULT USE AIRPLANE MODE 5 SECONDS\x1b[0m\n"%(P))
 				for user in self.id:
 					coeg.submit(self.api, user, listpass.split(","))
-			exit("\n\n [>>] CRACK COMPLETE...")
+			exit("\n\n [>>] CRACK COMPLETE... Saifullah Sahak")
 		except Exception as e:exit(str(e))
 
 	def api(self, uid, pwx):
@@ -507,7 +507,7 @@ class Main:
   "Mozilla/5.0 (Linux; Android 4.4.2; SM-T217S Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.84 Safari/537.36",
   "Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; MALNJS; rv:11.0) like Gecko",
   "Mozilla/5.0 (Linux; Android 4.4.2; RCT6203W46 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.84 Safari/537.36",
-s  "Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; WOW64; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; .NET4.0E)",
+   "Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; WOW64; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; .NET4.0E)",
   "Mozilla/5.0 (Android; Tablet; rv:34.0) Gecko/34.0 Firefox/34.0",
   "Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.2; WOW64; Trident/6.0; Touch)",
   "Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.2; WOW64; Trident/7.0; TNJB; 1ButtonTaskbar)",
