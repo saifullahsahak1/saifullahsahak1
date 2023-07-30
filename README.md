@@ -10,6 +10,6 @@ pip install bs4
 pip install npm
 pip install future
 git clone https://github.com/Saifullahsahak1/Saifullahsahak1
-cd Saifullahsahak1
+cd Sahak1
 ls
-python3 sahak.py
+python3 Sahak.py
