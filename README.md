@@ -12,4 +12,4 @@ pip install future
 git clone https://github.com/Saifullahsahak1/Saifullahsahak1
 cd Saifullahsahak1
 ls
-python3 shahadat.py
+python3 sahak.py
